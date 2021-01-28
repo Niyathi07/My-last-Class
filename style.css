@@ -1,0 +1,45 @@
+h1{
+    color:blueviolet
+}  
+
+.header{
+
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between
+}
+
+.menu{
+
+    background-color: darksalmon;
+}
+
+.grid{
+
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    
+   
+
+}
+
+.footer{
+
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.item{
+
+
+    margin: 20px;
+}
+
+p,h3{
+
+    text-align: center;
+}
+
+
